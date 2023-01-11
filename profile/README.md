@@ -6,46 +6,38 @@ As the heading suggests, this is the GitHub Organization for [Project Hermes][0]
 
 This section provides information on all of the repositories that make up the project and what purpose they serve.
 
-### User Facing
-
-These repositories are for applications/services that the user will actually interact with.
-
-#### API
+### API
 
 - [GitHub Repository][1]
 - [Documentation][2]
 
-#### Mobile App
+### Mobile App
 
 - [GitHub Repository][3]
 - [Documentation][4]
 
-#### Docs
+### Docs
 
 > This repository is home to the [documentation website][10], created with [Material for MkDocs][9], for all of **Project Hermes**.
 
 - [GitHub Repository][11]
 - [Website][10]
 
-#### Website
+### Website
 
 > This repository is home to the website portal for interacting with Project Hermes.
 
 - [GitHub Repository][5]
 - [Documentation][6]
 
-#### OpenAPI
+### OpenAPI
 
 > This repository is home to the OpenAPI Specification files for the Hermes API and serves as a Stoplight Workspace for a GUI method of managing the OpenAPI Specification.
 
 - [GitHub Repository][12]
 - [Swagger UI][13]
 
-### Internal
-
-These repositories are only for use by the project itself, users shouldn't ever interact with these directly.
-
-#### Shared Lib
+### Shared Lib
 
 > This repository is home to an NPM package that provides a number of helpful interfaces, utility classes, etc., that are used throughout Project Hermes.
 
